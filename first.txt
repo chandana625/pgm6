@@ -1,2 +1,4 @@
 first file master
 small change in first file
+diploma chandana >>first.txt
+echo diploma chandana
